@@ -1,4 +1,5 @@
 #README.md file 
+#fork
 module "kinesis-stream" {
 
   source  = "rodrigodelmonte/kinesis-stream/aws"
